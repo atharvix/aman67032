@@ -36,13 +36,15 @@
 <td width="50%">
 
 ### 🚀 Goal
-To become a **Full-Stack Developer** and build my own **tech startup**
+To become a **Full-Stack Developer** 
+And To become a **competitive programmer** 
 
 ### 🔥 Passionate About
 - Building innovative solutions
 - Open source contribution
 - Hardware-software integration
 - Creating user-centric designs
+- Solving Competitive Qus on Codechef , leetcode and codeforce
 
 ### 🎯 Focus Areas
 - **Frontend**: React, Modern CSS, UI/UX
@@ -173,7 +175,7 @@ To become a **Full-Stack Developer** and build my own **tech startup**
 > 
 > **Tech Stack:** HTML5, CSS3, JavaScript, PHP, MySQL
 > 
-> **Status:** ✅ Completed
+> **Status:** 📌 OnGoing
 
 </div>
 
@@ -245,10 +247,10 @@ graph LR
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanpratapsingh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanpratapsingh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amanpratapsingh.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aman67032)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aman-pratap-singh-bb7b3532a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amanpratapsingh.dev) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanpratapsingh@jklu.edu.in)
 
 </div>
 
