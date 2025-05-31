@@ -1,11 +1,18 @@
-<p align="center">
-  <!-- Top banner image -->
-  <img src="2e190a31-f45b-4d5d-9721-ac41830b4fd7.png" alt="Banner" width="100%" />
-
-  <!-- Circular profile image -->
-  <img src="a.jpeg" alt="Aman Pratap Singh" width="150" style="border-radius: 50%; margin-top: -75px; border: 4px solid white;" />
-</p>
-
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <!-- Profile image on the left with fixed dimensions -->
+        <img src="a.jpeg" alt="Aman Pratap Singh" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
+      </td>
+      <td width="20"></td>
+      <td>
+        <!-- Banner image on the right with same height as profile -->
+        <img src="2e190a31-f45b-4d5d-9721-ac41830b4fd7.png" alt="Banner" height="150" style="object-fit: cover;" />
+      </td>
+    </tr>
+  </table>
+</div>
 <h1 align="center">Hi there 👋, I'm Aman Pratap Singh</h1>
 
 <div align="center">
