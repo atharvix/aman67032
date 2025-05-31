@@ -183,13 +183,14 @@ To become a **Full-Stack Developer** and build my own **tech startup**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amanpratapsingh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=aman67032&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpratapsingh&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman67032&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpratapsingh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman67032&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
+
 
 ---
 
