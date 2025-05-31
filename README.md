@@ -1,4 +1,12 @@
-# Hi there 👋, I'm Aman Pratap Singh
+<p align="center">
+  <!-- Top banner image -->
+  <img src="https://your-banner-image.jpg" alt="Banner" width="100%" />
+
+  <!-- Circular profile image -->
+  <img src="a.jpeg" alt="Aman Pratap Singh" width="150" style="border-radius: 50%; margin-top: -75px; border: 4px solid white;" />
+</p>
+
+<h1 align="center">Hi there 👋, I'm Aman Pratap Singh</h1>
 
 <div align="center">
 
