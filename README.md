@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Top banner image -->
-  <img src="https://your-banner-image.jpg" alt="Banner" width="100%" />
+  <img src="1745685475053.jpeg" alt="Banner" width="100%" />
 
   <!-- Circular profile image -->
   <img src="a.jpeg" alt="Aman Pratap Singh" width="150" style="border-radius: 50%; margin-top: -75px; border: 4px solid white;" />
