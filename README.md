@@ -1,28 +1,9 @@
-
-<div align="left">
-  <table>
-    <tr>
-      <td>
-        <!-- Profile image on the left with fixed dimensions -->
-        <img src="a.jpeg" alt="Aman Pratap Singh" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
-      </td>
-      <td width="20"></td>
-      <td>
-        <!-- Banner image on the right with same height as profile -->
-        <img src="2e190a31-f45b-4d5d-9721-ac41830b4fd7.png" alt="Banner" height="150" style="object-fit: cover;" />
-      </td>
-    </tr>
-  </table>
-</div>
 <h1 align="center">Hi there 👋, I'm Aman Pratap Singh</h1>
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=amanpratapsingh&color=blue&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/amanpratapsingh?style=social)
-![GitHub stars](https://img.shields.io/github/stars/amanpratapsingh?style=social)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&width=435&lines=React+Developer;3D+Designer;Always+Learning+New+Tech!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -272,6 +253,10 @@ graph LR
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aman67032&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+</p>
+
 <div align="center">
 
 ### 💫 "Building the future with code ⚡"
@@ -281,10 +266,6 @@ graph LR
 
 ---
 
-![Wave](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer)
-
 </div>
 
----
 
-**⭐ If you find my work interesting, please consider giving a star to my repositories!**
