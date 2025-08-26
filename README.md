@@ -190,24 +190,15 @@ And To become a **competitive programmer**
 
 </div>
 
+## 🏅 Achievements
 
----
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark: Created pull requests merged" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck: Gained stars on repositories" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw: Closed issues/pull requests quickly" />
+</p>
 
-## 🌟 Professional Journey
 
-```mermaid
-graph LR
-    A[🎓 B.Tech CSE Student] --> B[💻 Learning Full-Stack]
-    B --> C[🤖 AI/ML Explorer]
-    C --> D[🔌 Embedded Systems]
-    D --> E[🚀 Future Tech Entrepreneur]
-    
-    style A fill:#58a6ff
-    style B fill:#1f6feb
-    style C fill:#8b5cf6
-    style D fill:#fb8500
-    style E fill:#238636
-```
 
 ---
 
